@@ -4,7 +4,7 @@
 
 This is XMPP chat Client build using ionic Cordova. 
 
-#### Whats New 
+#### Whats New ?
 
       1. No chat log is provided.
       2. Can be used to connect remote XMPP server.
