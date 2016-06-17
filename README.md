@@ -11,6 +11,7 @@ This is XMPP chat Client build using ionic Cordova.
       3. Not browser specific
 
 To see how Local SQL Storage is integrated, visit
+
 [Ionic XMPP Chat Client with SQL](https://github.com/arjunsk/Ionic-XMPP-Chat-Client-with-SQL)
 
 [Ionic XMPP Chat Client with SQL and Remote XMPP ](https://github.com/arjunsk/XMPP-Chat-Client-Remote)
