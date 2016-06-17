@@ -17,7 +17,7 @@ To see how Local SQL Storage is integrated, visit
 [Ionic XMPP Chat Client with SQL and Remote XMPP ](https://github.com/arjunsk/XMPP-Chat-Client-Remote)
 
 Read my article for setting Remote XMPP server : 
-[How to connect to Remote Database](http://www.arjunsk.com/uncategorized/ionic-xmpp-client-sql-db-part-5/)
+[How to connect to Remote Database](http://www.arjunsk.com/html5/ionic-xmpp-client-sql-db-part-5/)
 
 For the complete tutorial series on how to build this app, Please visit 
 
