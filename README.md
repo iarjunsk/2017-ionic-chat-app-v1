@@ -8,7 +8,8 @@ This is XMPP chat Client build using ionic Cordova.
 
       1. No chat log is provided.
       2. Can be used to connect remote XMPP server.
-      3. Not browser specific
+      3. Added Registration functionality. 
+      4. Not browser specific
 
 To see how Local SQL Storage is integrated, visit
 
